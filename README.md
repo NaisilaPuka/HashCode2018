@@ -10,6 +10,7 @@ Our solutions to Online Qualification Round of Google Hash Code 2018
   * [Ana Peçini](https://github.com/annapecini)
   * Franc Gripshi
 
-**Hub**
+**Team Photo**
+<img src="https://i.ibb.co/ZcXNP8C/IMG-3346.jpg" alt="gwagv2.0" width="350"/>
 
-We were part of Bilkent Hub :heart:
+@Bilkent Hub :heart:
