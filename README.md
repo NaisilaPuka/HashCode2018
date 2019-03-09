@@ -11,6 +11,7 @@ Our solutions to Online Qualification Round of Google Hash Code 2018
   * Franc Gripshi
 
 **Team Photo**
-<img src="https://i.ibb.co/ZcXNP8C/IMG-3346.jpg" alt="gwagv2.0" width="350"/>
+
+<img src="https://i.ibb.co/ZcXNP8C/IMG-3346.jpg" alt="gwagv2.0" width="400"/>
 
 @Bilkent Hub :heart:
