@@ -12,6 +12,6 @@ Our solutions to Online Qualification Round of Google Hash Code 2018
 
 **Team Photo**
 
-<img src="https://i.ibb.co/ZcXNP8C/IMG-3346.jpg" alt="gwagv2.0" width="400"/>
+<img src="https://i.ibb.co/ZcXNP8C/IMG-3346.jpg" alt="gwagv2.0" width="450"/>
 
 @Bilkent Hub :heart:
