@@ -5,7 +5,7 @@ Our solutions to Online Qualification Round of Google Hash Code 2018
 **Team Name**: GWAG V2.0
 
 **Members**
-  * [Naisila Puka](https://github.com/NaisilaPuka)
+  * [Naisila Puka](https://github.com/naisila)
   * [Krisela Skënderi](https://github.com/kriselaskenderi)
   * [Ana Peçini](https://github.com/annapecini)
   * Franc Gripshi
